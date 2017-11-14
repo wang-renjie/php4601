@@ -27,6 +27,16 @@ class IndexController {
         echo "这是删除的方法！";
     }
     
+    //新增后台登录方法
+    public function indexLoginAction()
+    {
+        echo "这是后台登录的方法";
+    }
+    //新增后台退出方法
+    public function indexLogoOut()
+    {
+        echo "由此退出登录！";
+    }
     
     
     
