@@ -15,6 +15,11 @@ class IndexController {
     {
         echo '111111111111111111111111';
     }
+
+    public function addNewAction()
+    {
+        echo 'wangrenjie';
+    }
     
     
     
