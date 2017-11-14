@@ -20,6 +20,12 @@ class IndexController {
     {
         echo 'wangrenjie';
     }
+
+    //添加删除的方法
+    public function deleteAction()
+    {
+        echo "这是删除的方法！";
+    }
     
     
     
